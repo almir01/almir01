@@ -2,7 +2,9 @@
 
 <hr>
 
-<p> I'm a junior software developer. Currently learning java on CodeGym Online Java Bootcamp. </p>
+<p> I'm a junior software developer. Currently learning java on CodeGym Online Java Bootcamp.
+   Beside Java, I'm  also familiar with PHP&MySQL, HTML and CSS.    
+</p>
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=almir01&show_icons=true&count_private=true"><img
