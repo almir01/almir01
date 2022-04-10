@@ -2,6 +2,7 @@
 
 <hr>
 
+<p> I'm a junior software developer. Currently learning java on CodeGym Bootcamp. </p>
 <!--
 **almir01/almir01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
