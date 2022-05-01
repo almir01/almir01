@@ -2,7 +2,7 @@
 
 <hr>
 
-<p> I'm a junior software developer. Currently learning java on CodeGym Online Java Bootcamp.
+<p> I'm a junior software developer. Currently learning Java on CodeGym Online Java Bootcamp.
    Beside Java, I'm  also familiar with PHP&MySQL, HTML and CSS.    
 </p>
 
