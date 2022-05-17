@@ -3,9 +3,9 @@
 <hr>
 
 <p> I'm a junior software / backend developer. Currently learning Java on CodeGym Online Java Bootcamp.
-   Beside Java, I'm  also learning PHP&MySQL, and HTML and CSS( on the fly).    
+   Beside Java, I'm  also learning PHP&MySQL, and HTML and CSS(on the fly).    
 </p>
-<p>I prefer backend over frontend in development, so I'll be most focusing my learning on creating aplication with  Spring&Hibernate and PHP&MySQL</p>
+<p>I prefer backend over frontend in development, so I'll be most focusing my learning on creating aplication with Spring&Hibernate and PHP&MySQL.</p>
 
 
 
