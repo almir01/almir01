@@ -9,7 +9,7 @@
 
 
 
-<h2>Currently reading at the moment....? </h2>+
-<p>09.07.2022 started reading: 
-PHP&MySQ: Novice to Ninja, 7-th Edition. 
+<h2>Currently reading at the moment....? </h2>
+<p>09.07.2022 started reading: </br>
+PHP&MySQ: Novice to Ninja, 7-th Edition. </br>
 Book is released in February 2022 by Tom Butler.
